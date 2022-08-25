@@ -145,3 +145,15 @@ Java installation is prerequisite of installing elasticsearch, logstash, and kib
 <p align = "center">
  <em>Figure 7: Java Environment Variable.</em>
 </p>
+
+### Install Elasticsearch
+#### Check if *Elasticsearch* works.
+
+Start the *Elasticsearch* and check the installation
+
+<p align="center">
+ <img src="images/elasticsearch_install.png" alt="Elasticsearch installation result" style="width:800px;"/>
+</p>
+<p align = "center">
+ <em>Figure 7: Elasticsearch installation result.</em>
+</p>
