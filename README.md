@@ -239,3 +239,12 @@ A pattern named ***8**** is created consisted of all data from 8 *csv* files.
  <em>Figure 13: Index patterns on Kibana.</em>
 </p>
 
+#### Discover the Data
+
+The data is chosen from ***Aug 1, 2022 00h:00m:00s*** to now
+<p align="center">
+ <img src="images/discover.png" alt="Data Discover" style="width:1000px;"/>
+</p>
+<p align = "center">
+ <em>Figure 14: Data Discover.</em>
+</p>
