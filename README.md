@@ -204,3 +204,13 @@ With the approved key as below, since the security issue, it should be shown in 
 <p align = "center">
  <em>Figure 11: The key for downloading the data.</em>
 </p>
+
+I download eight files with save in [data folder](/data/), including:
+ 1. [abandonmentPublic202208-1.csv](data/abandonmentPublic202208-1.csv)
+ 2. [abandonmentPublic202208-2.csv](data/abandonmentPublic202208-2.csv)
+ 3. [abandonmentPublic202208-3.csv](data/abandonmentPublic202208-3.csv)
+ 4. [abandonmentPublic202208-4.csv](data/abandonmentPublic202208-4.csv)
+ 5. [abandonmentPublic202208-5.csv](data/abandonmentPublic202208-5.csv)
+ 6. [abandonmentPublic202208-6.csv](data/abandonmentPublic202208-6.csv)
+ 7. [abandonmentPublic202208-7.csv](data/abandonmentPublic202208-7.csv)
+ 8. [abandonmentPublic202208-8.csv](data/abandonmentPublic202208-8.csv)
