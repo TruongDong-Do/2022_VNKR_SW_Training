@@ -127,5 +127,21 @@ Figure. 3 below show the Networking of my Virtual Machine
  <em>Figure 5: Setting the Swap Memory result.</em>
 </p>
 
+### Install Java
+Java installation is prerequisite of installing elasticsearch, logstash, and kibana. So we have to install Java before installing the three programs.
 
+#### Check if *Java* is installed.
+<p align="center">
+ <img src="images/java_check.png" alt="Java Version" style="width:800px;"/>
+</p>
+<p align = "center">
+ <em>Figure 6: Java installation result.</em>
+</p>
 
+#### Set *Java* environment variable
+<p align="center">
+ <img src="images/java_env.png" alt="Java Environment Variable" style="width:800px;"/>
+</p>
+<p align = "center">
+ <em>Figure 7: Java Environment Variable.</em>
+</p>
