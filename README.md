@@ -103,7 +103,7 @@ I already create the Azure Virtual Machine with the IP ***20.228.243.183*** and 
 Figure. 3 below show the Networking of my Virtual Machine
 
 <p align="center">
- <img src="images/azure_networking.png" alt="Virtual Machine Networking" style="width:800px;"/>
+ <img src="images/azure_networking.png" alt="Virtual Machine Networking" style="width:1000px;"/>
 </p>
 <p align = "center">
  <em>Figure 3: The Networking of Azure Virtual Machine.</em>
