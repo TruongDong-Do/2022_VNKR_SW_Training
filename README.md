@@ -1,4 +1,7 @@
 <h1 align="center"> 2022 SW Education for Vietnamese Students in Korea </h1>
+<p align="center">
+ <img src="images/2022_주한_베트남SW카페메인.jpg" alt="Program Banner" style="width:800px;"/>
+</p>
 <h1 align="center"> Assignment Report </h1>
 
 **Author: Do Truong Dong** <br>
