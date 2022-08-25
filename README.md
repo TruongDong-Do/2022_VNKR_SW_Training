@@ -248,3 +248,16 @@ The data is chosen from ***Aug 1, 2022 00h:00m:00s*** to now
 <p align = "center">
  <em>Figure 14: Data Discover.</em>
 </p>
+
+### Data Visualization with Kibana
+
+Below is the  created Dashboard for this Data.\
+The dashboard is save with the name [8_dashboard](http://20.228.243.183:5601/app/dashboards#/view/b416a310-2441-11ed-8784-6d5c5e4a8577?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:'2022-07-31T15:00:00.000Z',to:now))).
+<p align="center">
+ <img src="images/dashboard_1.png" alt="Dashboard 1" style="width:1000px;"/>
+</p>
+
+<p align="center">
+ <img src="images/dashboard_2.png" alt="Dashboard 2" style="width:1000px;"/>
+</p>
+
