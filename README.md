@@ -167,7 +167,25 @@ Start the *Elasticsearch* and check the installation
  <em>Figure 8: Elasticsearch External access result.</em>
 </p>
 
+### Install Logstash
 
+### Install Kibana
+#### Check if *Kibana* works.
 
-### Install Elasticsearch
+Start the *Kibana* and check the installation
 
+<p align="center">
+ <img src="images/kibana_install.png" alt="Kibana installation result" style="width:800px;"/>
+</p>
+<p align = "center">
+ <em>Figure 9: Kibana installation result.</em>
+</p>
+
+#### Check if external access is allowed for *Kibana* service.
+
+<p align="center">
+ <img src="images/kibana_ext.png" alt="Kibana External access" style="width:800px;"/>
+</p>
+<p align = "center">
+ <em>Figure 10: Kibana External access result.</em>
+</p>
