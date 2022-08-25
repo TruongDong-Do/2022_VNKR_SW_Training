@@ -157,3 +157,17 @@ Start the *Elasticsearch* and check the installation
 <p align = "center">
  <em>Figure 7: Elasticsearch installation result.</em>
 </p>
+
+#### Check if external access is allowed for *Elasticsearch* service.
+
+<p align="center">
+ <img src="images/elasticsearch_ext.png" alt="Elasticsearch External access" style="width:800px;"/>
+</p>
+<p align = "center">
+ <em>Figure 8: Elasticsearch External access result.</em>
+</p>
+
+
+
+### Install Elasticsearch
+
