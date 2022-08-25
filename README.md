@@ -182,6 +182,7 @@ Start the *Kibana* and check the installation
 </p>
 
 #### Check if external access is allowed for *Kibana* service.
+The Kibana can be access with this address: http://20.228.243.183:5601/
 
 <p align="center">
  <img src="images/kibana_ext.png" alt="Kibana External access" style="width:1000px;"/>
