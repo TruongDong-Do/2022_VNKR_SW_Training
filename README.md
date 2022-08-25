@@ -219,6 +219,8 @@ All the file here are modified the time format. This mean it will have no proble
 
 ### Import the ***csv*** file to the the **Data Visualizer** of Kibana
 
+#### Upload
+
 All of 8 files above were successfully imported to the ***Kibana***, the result is shown as figure below
 <p align="center">
  <img src="images/index_manage.png" alt="Index Management" style="width:1000px;"/>
@@ -226,3 +228,14 @@ All of 8 files above were successfully imported to the ***Kibana***, the result 
 <p align = "center">
  <em>Figure 12: Index Management on Kibana.</em>
 </p>
+
+#### Indexing
+A pattern named ***8**** is created consisted of all data from 8 *csv* files.
+
+<p align="center">
+ <img src="images/indexing.png" alt="Index patterns" style="width:1000px;"/>
+</p>
+<p align = "center">
+ <em>Figure 13: Index patterns on Kibana.</em>
+</p>
+
