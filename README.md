@@ -217,3 +217,12 @@ I download eight ***csv*** files with save in [data folder](/data/), including:
 
 All the file here are modified the time format. This mean it will have no problem about Korean language when open with MS Office.
 
+### Import the ***csv*** file to the the **Data Visualizer** of Kibana
+
+All of 8 files above were successfully imported to the ***Kibana***, the result is shown as figure below
+<p align="center">
+ <img src="images/index_manage.png" alt="Index Management" style="width:1000px;"/>
+</p>
+<p align = "center">
+ <em>Figure 12: Index Management on Kibana.</em>
+</p>
