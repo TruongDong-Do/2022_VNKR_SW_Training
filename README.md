@@ -113,7 +113,7 @@ Figure. 3 below show the Networking of my Virtual Machine
 
 ### Connect to the Server with Putty
 <p align="center">
- <img src="images/connect_putty.png" alt="Connect to the Server with Putty" style="width:800px;"/>
+ <img src="images/connect_putty.png" alt="Connect to the Server with Putty" style="width:600px;"/>
 </p>
 <p align = "center">
  <em>Figure 4: Connect to the Server with Putty result.</em>
@@ -121,7 +121,7 @@ Figure. 3 below show the Networking of my Virtual Machine
 
 ### Setting the Linux Swap Area
 <p align="center">
- <img src="images/swap_result.png" alt="Swap Area" style="width:800px;"/>
+ <img src="images/swap_result.png" alt="Swap Area" style="width:600px;"/>
 </p>
 <p align = "center">
  <em>Figure 5: Setting the Swap Memory result.</em>
@@ -132,7 +132,7 @@ Java installation is prerequisite of installing elasticsearch, logstash, and kib
 
 #### Check if *Java* is installed.
 <p align="center">
- <img src="images/java_check.png" alt="Java Version" style="width:800px;"/>
+ <img src="images/java_check.png" alt="Java Version" style="width:600px;"/>
 </p>
 <p align = "center">
  <em>Figure 6: Java installation result.</em>
@@ -140,7 +140,7 @@ Java installation is prerequisite of installing elasticsearch, logstash, and kib
 
 #### Set *Java* environment variable
 <p align="center">
- <img src="images/java_env.png" alt="Java Environment Variable" style="width:800px;"/>
+ <img src="images/java_env.png" alt="Java Environment Variable" style="width:600px;"/>
 </p>
 <p align = "center">
  <em>Figure 7: Java Environment Variable.</em>
@@ -152,7 +152,7 @@ Java installation is prerequisite of installing elasticsearch, logstash, and kib
 Start the *Elasticsearch* and check the installation
 
 <p align="center">
- <img src="images/elasticsearch_install.png" alt="Elasticsearch installation result" style="width:800px;"/>
+ <img src="images/elasticsearch_install.png" alt="Elasticsearch installation result" style="width:600px;"/>
 </p>
 <p align = "center">
  <em>Figure 7: Elasticsearch installation result.</em>
@@ -175,7 +175,7 @@ Start the *Elasticsearch* and check the installation
 Start the *Kibana* and check the installation
 
 <p align="center">
- <img src="images/kibana_install.png" alt="Kibana installation result" style="width:800px;"/>
+ <img src="images/kibana_install.png" alt="Kibana installation result" style="width:600px;"/>
 </p>
 <p align = "center">
  <em>Figure 9: Kibana installation result.</em>
@@ -184,7 +184,7 @@ Start the *Kibana* and check the installation
 #### Check if external access is allowed for *Kibana* service.
 
 <p align="center">
- <img src="images/kibana_ext.png" alt="Kibana External access" style="width:800px;"/>
+ <img src="images/kibana_ext.png" alt="Kibana External access" style="width:1000px;"/>
 </p>
 <p align = "center">
  <em>Figure 10: Kibana External access result.</em>
