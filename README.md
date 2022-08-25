@@ -77,7 +77,7 @@ public class ApiExplorer {
 
 # 3. Solution for required tasks
 
-### Task 1: Register for Public Data Membership
+## Task 1: Register for Public Data Membership
 
 I registered an account with my Kakao. After registering and applying to use the data, the result is shown in Figure. 2 below. 
 
@@ -88,9 +88,11 @@ I registered an account with my Kakao. After registering and applying to use the
  <em>Figure 2: The application for using the data result.</em>
 </p>
 
-### Task 2: Azure Server Setting / Installing Elasticsearch, Logstash, Kibana
+## Task 2: Azure Server Setting / Installing Elasticsearch, Logstash, Kibana
 
-#### 2.1. Azure Sever Setting
+### 2.1. Azure Sever Setting
+
+### Create the Virtual Machine and Setting up the Networking
 I already create the Azure Virtual Machine with the IP ***20.228.243.183*** and set up the ports:
 - http(80)
 - https(443)
@@ -108,4 +110,22 @@ Figure. 3 below show the Networking of my Virtual Machine
 <p align = "center">
  <em>Figure 3: The Networking of Azure Virtual Machine.</em>
 </p>
+
+### Connect to the Server with Putty
+<p align="center">
+ <img src="images/connect_putty.png" alt="Connect to the Server with Putty" style="width:800px;"/>
+</p>
+<p align = "center">
+ <em>Figure 4: Connect to the Server with Putty result.</em>
+</p>
+
+### Setting the Linux Swap Area
+<p align="center">
+ <img src="images/swap_result.png" alt="Swap Area" style="width:800px;"/>
+</p>
+<p align = "center">
+ <em>Figure 5: Setting the Swap Memory result.</em>
+</p>
+
+
 
