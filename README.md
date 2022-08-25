@@ -205,7 +205,7 @@ With the approved key as below, since the security issue, it should be shown in 
  <em>Figure 11: The key for downloading the data.</em>
 </p>
 
-I download eight files with save in [data folder](/data/), including:
+I download eight ***csv*** files with save in [data folder](/data/), including:
  1. [abandonmentPublic202208-1.csv](data/abandonmentPublic202208-1.csv)
  2. [abandonmentPublic202208-2.csv](data/abandonmentPublic202208-2.csv)
  3. [abandonmentPublic202208-3.csv](data/abandonmentPublic202208-3.csv)
@@ -214,3 +214,6 @@ I download eight files with save in [data folder](/data/), including:
  6. [abandonmentPublic202208-6.csv](data/abandonmentPublic202208-6.csv)
  7. [abandonmentPublic202208-7.csv](data/abandonmentPublic202208-7.csv)
  8. [abandonmentPublic202208-8.csv](data/abandonmentPublic202208-8.csv)
+
+All the file here are modified the time format. This mean it will have no problem about Korean language when open with MS Office.
+
