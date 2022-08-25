@@ -261,3 +261,5 @@ The dashboard is save with the name [8_dashboard](http://20.228.243.183:5601/app
  <img src="images/dashboard_2.png" alt="Dashboard 2" style="width:1000px;"/>
 </p>
 
+<h1 align="center"> -- The end -- </h1>
+
