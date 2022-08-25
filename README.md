@@ -190,3 +190,17 @@ The Kibana can be access with this address: http://20.228.243.183:5601/
 <p align = "center">
  <em>Figure 10: Kibana External access result.</em>
 </p>
+
+## Task 3: Download the data / Analysis and Visualize with Kibana
+### Download the data from Open API
+
+```
+http://apis.data.go.kr/1543061/abandonmentPublicSrvc/abandonmentPublic?bgnde=20220801&endde=20220831&pageNo=1&numOfRows=999&serviceKey=인증키(URL Encode)
+```
+With the approved key as below, since the security issue, it should be shown in the figure as below.
+<p align="center">
+ <img src="images/data_key.png" alt="Data Key" style="width:1000px;"/>
+</p>
+<p align = "center">
+ <em>Figure 11: The key for downloading the data.</em>
+</p>
